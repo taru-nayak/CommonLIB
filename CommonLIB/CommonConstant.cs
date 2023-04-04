@@ -2,6 +2,6 @@
 {
     public class CommonConstant
     {
-        public static string ProjectName = "Bygghemma.Integration";
+        public static string ProjectName = "Bygghemma.Integration Update";
     }
 }
